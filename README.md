@@ -36,7 +36,8 @@ Predictions
 
 ![newplot (8)](https://github.com/yadav-Simran/Wind-Turbine-Object-Detection-using-Detectron2/assets/123407453/daea8c38-1fab-49e4-b7bc-eb5058530c1b)
 
-![newplot (8)](https://github.com/yadav-Simran/Wind-Turbine-Object-Detection-using-Detectron2/assets/123407453/97d019ab-641f-4d68-bade-6c871b9cd791)
+![newplot (7)](https://github.com/yadav-Simran/Wind-Turbine-Object-Detection-using-Detectron2/assets/123407453/67456164-9742-4892-96c0-7ba8f8e50121)
+
 
 ![newplot (5)](https://github.com/yadav-Simran/Wind-Turbine-Object-Detection-using-Detectron2/assets/123407453/64487505-99b5-47e6-b7e0-15eabda84f67)
 
